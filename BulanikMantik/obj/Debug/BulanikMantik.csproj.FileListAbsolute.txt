@@ -1,0 +1,9 @@
+C:\Users\Yunus\Desktop\BulanikMantik\BulanikMantik\bin\Debug\BulanikMantik.exe.config
+C:\Users\Yunus\Desktop\BulanikMantik\BulanikMantik\bin\Debug\BulanikMantik.exe
+C:\Users\Yunus\Desktop\BulanikMantik\BulanikMantik\bin\Debug\BulanikMantik.pdb
+C:\Users\Yunus\Desktop\BulanikMantik\BulanikMantik\obj\Debug\BulanikMantik.csprojResolveAssemblyReference.cache
+C:\Users\Yunus\Desktop\BulanikMantik\BulanikMantik\obj\Debug\BulanikMantik.Form1.resources
+C:\Users\Yunus\Desktop\BulanikMantik\BulanikMantik\obj\Debug\BulanikMantik.Properties.Resources.resources
+C:\Users\Yunus\Desktop\BulanikMantik\BulanikMantik\obj\Debug\BulanikMantik.csproj.GenerateResource.Cache
+C:\Users\Yunus\Desktop\BulanikMantik\BulanikMantik\obj\Debug\BulanikMantik.exe
+C:\Users\Yunus\Desktop\BulanikMantik\BulanikMantik\obj\Debug\BulanikMantik.pdb
